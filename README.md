@@ -1,2 +1,13 @@
-# flutter_savings_manager
-Simple personal finance app built with Flutter. Tracks savings, deposits, withdrawals, and balances locally — no bank accounts or cards required.
+# Flutter Finance App
+
+Aplicación móvil desarrollada en Flutter con Provider, integración de servicios,
+manejo de transacciones, préstamos, reuniones y autenticación.
+
+Incluye:
+- Gestión de usuarios
+- CRUD para transacciones
+- Registro de préstamos
+- Control de reuniones
+- Arquitectura limpia
+- Responsive UI
+
