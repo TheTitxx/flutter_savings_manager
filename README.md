@@ -40,19 +40,19 @@ Incluye integración con Firebase, seguridad reforzada, manejo offline y operaci
 
 lib/
 
-  core/di/models
+    core/di/models
 
-  models/
+    models/
 
-  providers/
+    providers/
 
-  screens/
+    screens/
 
-  services/
+    services/
 
-  widgets/
+    widgets/
 
-  main.dart
+    main.dart
 
 firebase.json
 
