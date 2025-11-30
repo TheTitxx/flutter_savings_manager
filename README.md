@@ -64,17 +64,19 @@ Incluye integración con Firebase, seguridad reforzada, manejo offline y operaci
 | **Provider**         | Manejo de estado             |
 | **GetIt**            | Inyección de dependencias    |
 
-
-Tecnología	        Uso
-Flutter	            Framework principal
-Dart	            Lenguaje de programación
-Firebase            Auth	Inicio de sesión
-Firestore	        Base de datos en tiempo real
-Firebase Storage	Archivos (si aplica)
-Provider	        Manejo de estado
-GetIt	            Inyección de dependencias
-
 # Estructura del proyecto
+
+lib/
+  screens/
+  services/
+  providers/
+  core/di/
+  widgets/
+firebase.json
+firestore.rules
+firestore.indexes.json
+pubspec.yaml
+
 
 lib/
   core/di/models
@@ -115,6 +117,7 @@ firebase.json
 firestore.rules
 firestore.indexes.json
 pubspec.yaml
+
 
 
 
