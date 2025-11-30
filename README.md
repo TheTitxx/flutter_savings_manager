@@ -38,7 +38,6 @@ Incluye integración con Firebase, seguridad reforzada, manejo offline y operaci
 
 # Estructura del proyecto
 
-
 lib/
 
   core/di/models
@@ -62,4 +61,3 @@ firestore.rules
 firestore.indexes.json
 
 pubspec.yaml
-
