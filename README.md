@@ -81,3 +81,6 @@ Comandos útiles:
 # Modo desarrollo
     
 Plataformas soportadas
+
+- Android ✔
+- OS ✔ (estructura lista, aunque no se compile hoy)
