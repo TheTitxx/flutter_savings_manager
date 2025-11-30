@@ -38,16 +38,16 @@ Incluye integración con Firebase, seguridad reforzada, manejo offline y operaci
 
 # Estructura del proyecto
 
-lib/
-    core/di/models
-    models/
-    providers/
-    screens/
-    services/
-    widgets/
-    main.dart
+    lib/
+        core/di/models
+        models/
+        providers/
+        screens/
+        services/
+        widgets/
+        main.dart
 
-firebase.json
-firestore.rules
-firestore.indexes.json
-pubspec.yaml
+    firebase.json
+    firestore.rules
+    firestore.indexes.json
+    pubspec.yaml
