@@ -39,7 +39,7 @@ Incluye integración con Firebase, seguridad reforzada, manejo offline y operaci
 # Estructura del proyecto
 
     lib/
-        core/di/models
+        core/di/models/
         models/
         providers/
         screens/
@@ -51,3 +51,10 @@ Incluye integración con Firebase, seguridad reforzada, manejo offline y operaci
     firestore.rules
     firestore.indexes.json
     pubspec.yaml
+
+# Configuración del proyecto
+
+1. Instalar dependencias
+    flutter pub get
+
+
