@@ -82,4 +82,12 @@ Comandos útiles:
 Plataformas soportadas
 
 - Android ✔
-- OS ✔ (estructura lista, aunque no se compile hoy)
+- iOS ✔ (estructura lista, aunque no se compile hoy)
+
+# Contribuciones
+
+PRs, mejoras y sugerencias son bienvenidas.
+
+# Licencia
+
+Este proyecto es privado. No se permite el uso sin autorización.
