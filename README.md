@@ -1,28 +1,27 @@
-# Fincomu – App de Gestión Comunitaria
+# Fincomu – Community Management App
 
-Fincomu es una aplicación móvil desarrollada en Flutter diseñada para la administración de reuniones, préstamos, votaciones, transacciones y control de usuarios dentro de una comunidad.
-Incluye integración con Firebase, seguridad reforzada, manejo offline y operaciones atómicas para evitar inconsistencias en los datos.
+Fincomu is a Flutter-based mobile application designed to manage community meetings, loans, voting, financial transactions, and user control.
+It includes Firebase integration, enhanced security, offline support, and atomic operations to prevent data inconsistencies.
 
-# Características principales
+# Main Features
 
-✔ Autenticación de usuarios (Firebase Auth)
+✔ User authentication (Firebase Auth)
 
-✔ Transacciones atómicas para pagos y votaciones
+✔ Atomic transactions for payments and voting
 
-✔ Control de préstamos y transacciones financieras
+✔ Loan and financial transaction management
 
-✔ Gestión de reuniones, fechas y asistencia
+✔ Meeting scheduling, date validation, and attendance tracking
 
-✔ Caché offline habilitado (Firestore offline persistence)
+✔ Offline cache enabled (Firestore offline persistence)
 
-✔ Firestore Rules configuradas para seguridad
+✔ Secure Firestore Rules configuration
 
-✔ Índices de Firestore optimizados
+✔ Optimized Firestore indexes
 
-✔ Arquitectura limpia con Service Locator (getIt)
+✔ Clean architecture using Service Locator (GetIt)
 
-✔ UI moderna y adaptable
-
+✔ Modern and responsive UI
 
 # Tecnologías utilizadas
 
