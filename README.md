@@ -55,6 +55,6 @@ Incluye integración con Firebase, seguridad reforzada, manejo offline y operaci
 # Configuración del proyecto
 
 1. Instalar dependencias
-    flutter pub get
+        flutter pub get
 
 
