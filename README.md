@@ -6,13 +6,21 @@ Incluye integración con Firebase, seguridad reforzada, manejo offline y operaci
 # Características principales
 
 ✔ Autenticación de usuarios (Firebase Auth)
+
 ✔ Transacciones atómicas para pagos y votaciones
+
 ✔ Control de préstamos y transacciones financieras
+
 ✔ Gestión de reuniones, fechas y asistencia
+
 ✔ Caché offline habilitado (Firestore offline persistence)
+
 ✔ Firestore Rules configuradas para seguridad
+
 ✔ Índices de Firestore optimizados
+
 ✔ Arquitectura limpia con Service Locator (getIt)
+
 ✔ UI moderna y adaptable
 
 
