@@ -55,6 +55,15 @@ Incluye integración con Firebase, seguridad reforzada, manejo offline y operaci
 # Configuración del proyecto
 
 1. Instalar dependencias
+    
         flutter pub get
+
+2. Agregar configuración de Firebase
+
+    Asegúrate de incluir los archivos generados por FlutterFire CLI:
+
+    android/app/google-services.json
+
+    ios/Runner/GoogleService-Info.plist
 
 
