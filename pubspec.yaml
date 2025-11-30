@@ -1,0 +1,43 @@
+name: fincomu
+description: "Aplicación de gestión financiera para grupos de ahorro y crédito"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.0-290.4.beta
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Iconos
+  cupertino_icons: ^1.0.8
+  
+  # Firebase - Base de datos en la nube
+  firebase_core: ^3.8.1
+  firebase_auth: ^5.3.3
+  cloud_firestore: ^5.5.2
+  
+  # Manejo de estado
+  provider: ^6.1.1
+  
+  # Dependency Injection (Service Locator)
+  get_it: ^8.0.2
+
+  # Formateo de fechas y números
+  intl: ^0.19.0
+  
+  # Gráficos para reportes
+  fl_chart: ^0.65.0
+  
+  # Loading indicators
+  flutter_spinkit: ^5.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
