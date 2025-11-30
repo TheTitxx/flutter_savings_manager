@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43558665066",
+    "project_id": "fincomu-18c53",
+    "storage_bucket": "fincomu-18c53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43558665066:android:20d31345c2d7e5764e8313",
+        "android_client_info": {
+          "package_name": "com.example.fincomu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABQLPyaGHB63esf_w3_7Ak0STkoD7y_cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
