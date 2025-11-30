@@ -62,12 +62,22 @@ Incluye integración con Firebase, seguridad reforzada, manejo offline y operaci
 
     Asegúrate de incluir los archivos generados por FlutterFire CLI:
 
-    ✔ android/app/google-services.json
+    - android/app/google-services.json
 
-    ✔ ios/Runner/GoogleService-Info.plist
+    - ios/Runner/GoogleService-Info.plist
 
 3. Ejecutar la app
 
         flutter run
 
+# Modo desarrollo
 
+Comandos útiles:
+
+        flutter clean
+        flutter pub get
+        flutter run --release
+
+# Modo desarrollo
+    
+Plataformas soportadas
